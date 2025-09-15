@@ -1,0 +1,5 @@
+# Ignore config files in all task directories
+0x04-TypeScript/task_*/package.json
+0x04-TypeScript/task_*/tsconfig.json
+0x04-TypeScript/task_*/webpack.config.js
+0x04-TypeScript/task_*/.eslintrc.js
